@@ -1,7 +1,6 @@
 # Sérgio Brener
 
-<!--
-**brener-js/brener-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <a href="https://www.linkedin.com/in/brener-silva">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
