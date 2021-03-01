@@ -20,7 +20,4 @@ Sou um Desenvolvedor Front-End :computer:
 - :blush: Posso te ajudar com JavaScript, CSS3, HTML5, PHP, WordPress.
 - :computer: Minha stack atualmente: JavaScript, PHP & SQL.
 - 😄 Gosto de estudar novas tecnologias, games Runescape, Brawl Stars e seriados.
-- :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brener-silva/)](https://www.linkedin.com/in/brener-silva/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.brener95@gmail.com)](mailto:sergio.brener95@gmail.com)
--->
+- :email: Entre em contato comigo pelos links abaixo do meu nome.
