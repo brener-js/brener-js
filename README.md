@@ -12,7 +12,7 @@
 
 Bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-Meu nome é Brener, sou apaixonado por desenvolver aplicações que solucionam problemas e que geram resultados.
+Meu nome é Brener, sou apaixonado por desenvolver aplicações que solucionam problemas e que geram resultados. <br />
 Sou um Desenvolvedor Front-End :computer:
 
 - :rocket: Estou Trabalhando como Freelancer.
