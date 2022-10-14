@@ -18,5 +18,5 @@ Sou um Desenvolvedor Front-End :computer:
 - :rocket: Estou Trabalhando como Freelancer.
 - :purple_heart: Buscando colaborar com projetos em Front-end.
 - :blush: Posso te ajudar com Projetos usando JavaScript, CSS3, HTML5, PHP, WordPress.
-- Gosto de estudar novas tecnologias, games e marketing digital.
+- :book: Gosto de estudar novas tecnologias, games e marketing digital.
 - :email: Entre em contato comigo pelos links abaixo do meu nome.
