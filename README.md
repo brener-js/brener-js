@@ -16,8 +16,7 @@ Meu nome é Brener, sou apaixonado por desenvolver aplicações que solucionam p
 Sou um Desenvolvedor Front-End :computer:
 
 - :rocket: Estou Trabalhando como Freelancer.
-- :purple_heart: Buscando colaborar com projetos em Front-end usando ReactJS.
-- :blush: Posso te ajudar com JavaScript, CSS3, HTML5, PHP, WordPress.
-- :computer: Minha stack atualmente: JavaScript, PHP & SQL.
+- :purple_heart: Buscando colaborar com projetos em Front-end.
+- :blush: Posso te ajudar com Projetos usando JavaScript, CSS3, HTML5, PHP, WordPress.
 - Gosto de estudar novas tecnologias, games e marketing digital.
 - :email: Entre em contato comigo pelos links abaixo do meu nome.
