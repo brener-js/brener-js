@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:sergio.brener95@gmail.com">
+<a href="mailto:eubrenersilva@gmail.com">
  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
