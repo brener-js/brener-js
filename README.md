@@ -2,7 +2,7 @@
 
 Bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-Meu nome é Brener, atualmente trabalhando como UI/UX Designer coloborando em projetos de diversas áreas e desenvolvendo projetos pontuais utilizando HTML5, CSS3, JavaScript e PHP<br /><br />
+Meu nome é Brener, atualmente trabalhando como UI/UX Designer coloborando em projetos de diversas áreas e desenvolvendo projetos pontuais utilizando HTML5, CSS3, JavaScript e PHP.<br /><br />
 Sou um UI/UX Designer | Desenvolvedor Front-End :computer:
 
 - :rocket: Atualmente Trabalhando como Freelancer.
